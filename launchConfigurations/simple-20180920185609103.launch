@@ -15,7 +15,7 @@
 		"Target": {
 			"Url": "https://api.us-east.bluemix.net",
 			"Org": "silenio_quarti@ca.ibm.com",
-			"Space": "prod"
+			"Space": "dev"
 		},
 		"Timeout": 60
 	},
